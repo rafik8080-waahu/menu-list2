@@ -1,0 +1,99 @@
+{
+  
+    "mains": [
+      {
+        "name": "Banku and Tilapia",
+        "description": "Mouthen mix of fermented corn and cassava dough, and a very hot pepper,diced tomatoes and onions.",
+        "price": "19"
+      },
+      {
+        "name": "Waakye",
+        "description": "Medley of beans and rice serve with fried plantain, garri and spaghetti.",
+        "price": "17"
+      },
+      {
+        "name": "Creamy Sage",
+        "description": "Chicken breast sautéed with fresh sage and prosciutto. Served atop creamy asiago linguini.",
+        "price": "21"
+      },
+      {
+        "name": "Fufu and Goat light soup",
+        "description": "It is made by pounding yam and cassava in a soft sticky paste that go along with aromatic and spicy tomatoes soup.",
+        "price": "23"
+      },
+      {
+        "name": "Jollof rice ",
+        "description": "jollof rice serve with meat or fish.",
+        "price": "18"
+      },
+      {
+        "name": "Chicken Marsala",
+        "description": "Boneless chicken breast sautéed with mushrooms and finished in a marsala and cream reduction.",
+        "price": "22"
+      }
+    ],
+    "sides": [
+      {
+        "name": "Fries",
+        "price": "5"
+      },
+      {
+        "name": "Onion Rings",
+        "price": "4"
+      },
+      {
+        "name": "Has Brown",
+        "price": "3"
+      },
+      {
+        "name": "Chicken Nuggets",
+        "price": "4"
+      },
+      {
+        "name": "Salad",
+        "price": "6"
+      },
+      {
+        "name": "Coleslaw",
+        "price": "5"
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Soft Drink",
+        "price": "4",
+        "category": "drink"
+      },
+      {
+        "name": "Orange Juice",
+        "price": "5",
+        "category": "drink"
+      },
+      {
+        "name": "Iced Tea",
+        "price": "4",
+        "category": "drink"
+      },
+      {
+        "name": "Coffee",
+        "price": "6",
+        "category": "drink"
+      },
+      {
+        "name": "Smoothie",
+        "price": "4",
+        "category": "drink"
+      },
+      {
+        "name": "Water",
+        "price": "2",
+        "category": "drink"
+      },
+      {
+        "name": "Soobolo",
+        "price": "5",
+        "category":"drink"
+      }
+    ] 
+  }
+  
